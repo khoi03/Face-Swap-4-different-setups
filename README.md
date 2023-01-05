@@ -2,11 +2,11 @@
 
 ## Table of contents:
 
-[1.](https://github.com/khoi03/Face-Swap---4-different-setups/blob/master/README.md#1) Face Swap using dlib [(68 facial landmark points)](https://drive.google.com/file/d/1nZX8Muq_MMuEECog0z-dCKupRVyjZsG4/view?usp=sharing) and basic algorithm
+[1.](https://github.com/khoi03/Face-Swap---4-different-setups#1-first-set-up) Face Swap using dlib [(68 facial landmark points)](https://drive.google.com/file/d/1nZX8Muq_MMuEECog0z-dCKupRVyjZsG4/view?usp=sharing) and basic algorithm
 
-[2.](https://github.com/khoi03/Face-Swap---4-different-setups/blob/master/README.md#2) Face Swap using dlib [(81 facial landmark points)](https://drive.google.com/file/d/1dThWZRVdhdfP0_IBrR2JdJGaxBf_T6T4/view?usp=sharing) and delaunay triangulation method
+[2.](https://github.com/khoi03/Face-Swap---4-different-setups#2-second-set-up) Face Swap using dlib [(81 facial landmark points)](https://drive.google.com/file/d/1dThWZRVdhdfP0_IBrR2JdJGaxBf_T6T4/view?usp=sharing) and delaunay triangulation method
 
-[3.](https://github.com/khoi03/Face-Swap---4-different-setups/blob/master/README.md#3) Face Swap using MediaPipe and delaunay triangulation method
+[3.](https://github.com/khoi03/Face-Swap---4-different-setups#3-third-set-up) Face Swap using MediaPipe and delaunay triangulation method
 
 [4.](https://github.com/khoi03/Face-Swap-4-different-setups#4-fourth-set-up) Face Swap using MediaPipe + OpenGL and delaunay triangulation method [(link source code)](https://github.com/MarekKowalski/FaceSwap)
 
