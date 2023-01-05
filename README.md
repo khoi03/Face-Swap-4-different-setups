@@ -8,7 +8,7 @@
 
 [3.](https://github.com/khoi03/Face-Swap---4-different-setups/blob/master/README.md#3) Face Swap using MediaPipe and delaunay triangulation method
 
-4. Face Swap using MediaPipe + OpenGL and delaunay triangulation method [(link source code)](https://github.com/MarekKowalski/FaceSwap)
+[4.](https://github.com/khoi03/Face-Swap-4-different-setups#4-fourth-set-up) Face Swap using MediaPipe + OpenGL and delaunay triangulation method [(link source code)](https://github.com/MarekKowalski/FaceSwap)
 
 
 ## **Result:**
